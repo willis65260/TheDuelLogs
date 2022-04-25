@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/TheDuelLogs/static/css/main.56febdc1.css",
+    "main.js": "/TheDuelLogs/static/js/main.5cfdcfb4.js",
+    "static/media/34475451.jpg": "/TheDuelLogs/static/media/34475451.9154edec93b3b227216b.jpg",
+    "static/media/49725936.jpg": "/TheDuelLogs/static/media/49725936.eb95b658ef7c2b4ea981.jpg",
+    "static/media/19665973.jpg": "/TheDuelLogs/static/media/19665973.d80b563e0cf066c13a18.jpg",
+    "static/media/53244294.jpg": "/TheDuelLogs/static/media/53244294.b4bb957359e05a9d4dd3.jpg",
+    "static/media/80796456.jpg": "/TheDuelLogs/static/media/80796456.4cfd5dad50366211f3bb.jpg",
+    "static/media/56111151.jpg": "/TheDuelLogs/static/media/56111151.ebb7e8c7dc55c8c6990f.jpg",
+    "static/media/52119435.jpg": "/TheDuelLogs/static/media/52119435.3522de43ae35fca9e53e.jpg",
+    "static/media/62541668.jpg": "/TheDuelLogs/static/media/62541668.09218e58a2c4599121ab.jpg",
+    "static/media/14087893.jpg": "/TheDuelLogs/static/media/14087893.89524029637f392e085f.jpg",
+    "static/media/5318639.jpg": "/TheDuelLogs/static/media/5318639.4d551bb7bfc8386aa41c.jpg",
+    "static/media/44508094.jpg": "/TheDuelLogs/static/media/44508094.7883961ce325a7b19cdb.jpg",
+    "static/media/92015800.jpg": "/TheDuelLogs/static/media/92015800.6f872c7a4ac83f01fa6b.jpg",
+    "static/media/48770333.jpg": "/TheDuelLogs/static/media/48770333.16fd9bf9d2f59f74742b.jpg",
+    "static/media/65247798.jpg": "/TheDuelLogs/static/media/65247798.b2ae19ea21283fe56716.jpg",
+    "static/media/85970321.jpg": "/TheDuelLogs/static/media/85970321.b6aab6a1b20f2d828ae2.jpg",
+    "static/media/28674152.jpg": "/TheDuelLogs/static/media/28674152.8874a42f09b2dbd659e2.jpg",
+    "static/media/27918963.jpg": "/TheDuelLogs/static/media/27918963.689aafa1c80dc2f2e8ca.jpg",
+    "static/media/92246806.jpg": "/TheDuelLogs/static/media/92246806.98be30180674fcc5f0b4.jpg",
+    "static/media/28630501.jpg": "/TheDuelLogs/static/media/28630501.c58673bde372d6fdd079.jpg",
+    "static/media/10612222.jpg": "/TheDuelLogs/static/media/10612222.1f0cba28acf0aad70664.jpg",
+    "static/media/25244515.jpg": "/TheDuelLogs/static/media/25244515.2251954fab5d859054c6.jpg",
+    "static/media/16947147.jpg": "/TheDuelLogs/static/media/16947147.52354a9b05e1f0f10203.jpg",
+    "static/media/21834870.jpg": "/TheDuelLogs/static/media/21834870.f4c275bc4d944f011589.jpg",
+    "static/media/38033121.jpg": "/TheDuelLogs/static/media/38033121.e30ee8dbf6a406bef2cb.jpg",
+    "static/media/46986414.jpg": "/TheDuelLogs/static/media/46986414.0c0540e948b5d4221906.jpg",
+    "static/media/42421606.jpg": "/TheDuelLogs/static/media/42421606.6abee28ecee321c4c157.jpg",
+    "static/media/69838592.jpg": "/TheDuelLogs/static/media/69838592.9768f5404a571c831ae4.jpg",
+    "static/media/79861914.jpg": "/TheDuelLogs/static/media/79861914.b085d526de7576ebf850.jpg",
+    "static/media/23995346.jpg": "/TheDuelLogs/static/media/23995346.91f99a7c0a258b1c2b48.jpg",
+    "index.html": "/TheDuelLogs/index.html",
+    "main.56febdc1.css.map": "/TheDuelLogs/static/css/main.56febdc1.css.map",
+    "main.5cfdcfb4.js.map": "/TheDuelLogs/static/js/main.5cfdcfb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56febdc1.css",
+    "static/js/main.5cfdcfb4.js"
+  ]
+}
