@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TheDuelLogs/static/css/main.56febdc1.css",
+    "main.css": "/TheDuelLogs/static/css/main.3fc7927e.css",
     "main.js": "/TheDuelLogs/static/js/main.5cfdcfb4.js",
     "static/media/34475451.jpg": "/TheDuelLogs/static/media/34475451.9154edec93b3b227216b.jpg",
     "static/media/49725936.jpg": "/TheDuelLogs/static/media/49725936.eb95b658ef7c2b4ea981.jpg",
@@ -32,11 +32,11 @@
     "static/media/79861914.jpg": "/TheDuelLogs/static/media/79861914.b085d526de7576ebf850.jpg",
     "static/media/23995346.jpg": "/TheDuelLogs/static/media/23995346.91f99a7c0a258b1c2b48.jpg",
     "index.html": "/TheDuelLogs/index.html",
-    "main.56febdc1.css.map": "/TheDuelLogs/static/css/main.56febdc1.css.map",
+    "main.3fc7927e.css.map": "/TheDuelLogs/static/css/main.3fc7927e.css.map",
     "main.5cfdcfb4.js.map": "/TheDuelLogs/static/js/main.5cfdcfb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.56febdc1.css",
+    "static/css/main.3fc7927e.css",
     "static/js/main.5cfdcfb4.js"
   ]
 }
